@@ -1,5 +1,5 @@
 # KUC-MADDPG
-Source code for the paper entitled "KUC-MADDPG: A KL-Unlearning and Partial Communication Based Framework for Task Offloading in Vehicular Edge Computing" submitted to IEEE for possible publication.
+Source code for the paper entitled "KUC-MADDPG: A KL-Unlearning-enable Partial-Communication Approach to Task Offloading in Vehicular Edge Computing" submitted to IEEE Transactions on Vehicular Technology for possible publication.
 
 # Requirements
 •	Python 3.10.19
